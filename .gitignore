@@ -17,6 +17,19 @@ emm-rss.xml
 .eslintrc.json
 .gitattributes
 .ht.router.php
+.env.example
+.travis.yml
+composer.lock
+config/
+drush/
+load.environment.php
+phpunit.xml.dist
+private.key
+public.key
+vendor/
+web/modules/
+web/profiles/
+web/themes/
 
 # Ignore configuration files that may contain sensitive information.
 sites/*/*settings*.php
