@@ -1,5 +1,22 @@
 # The customised settings
-map_settings.js
+biopama-config/map_settings.js
+core/
+id_demo/
+libraries/
+news/
+sites/
+storymap/
+talkingmap/
+autoload.php
+emailRESTresults.js
+emailRESTresults.php
+emm-rss.xml
+.csslintrc
+.editorconfig
+.eslintignore
+.eslintrc.json
+.gitattributes
+.ht.router.php
 
 # Ignore configuration files that may contain sensitive information.
 sites/*/*settings*.php
