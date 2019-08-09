@@ -1,4 +1,7 @@
-# BIOPAMA-RIS-Configuration
+# BIOPAMA-RIS
+
+## How to setup a copy of the BIOPAMA RIS
+1. Depoly this repo to the root of your web directory.
 
 ## How to customise the RIS
 
