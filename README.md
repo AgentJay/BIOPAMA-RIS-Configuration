@@ -1,4 +1,4 @@
-# BIOPAMA-RIS
+# BIOPAMA-RIS-Core
 
 ## How to setup a copy of the BIOPAMA RIS
 
