@@ -18,6 +18,18 @@
 1. Clear the cache.
 #### Done!
 
+## Keeping the BIOPAMA RIS up to date
+In the future if there are any changes to any of the 3 main repos:
+- biopama_form_hooks
+- bootstrap_barrio_biopama
+- BIOPAMA-RIS-Core
+
+All you need to do is ```git pull``` from the corresponding git repo directory.
+For example: if "biopama_form_hooks" has been updated. Browse to the ```/modules/custom/biopama_form_hooks``` directory in your installation and run the ```git pull```command
+
+If the BIOPAMA-RIS-Core repo was the one that changed you must also run ```composer update``` from the root of your composer project directory where you setup the RIS and then check your drupal site for database-updates in the site status report. 
+
+
 ## **IMPORTANT NOTE**
 The **/biopama-config/DEFAULT_map_settings.js MUST be renamed to /biopama-config/map_settings.js** to ensure that the settings are not replaced if there is an update to the configuration options at a later date. And to acctually make it work since the RIS is looking for map_settings.js.
 
