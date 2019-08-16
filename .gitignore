@@ -1,3 +1,10 @@
+# Jekyll Theme
+
+/_site
+*.gem
+.sass-cache
+Gemfile.lock
+
 # The customised settings
 biopama-config/map_settings.js
 core/
