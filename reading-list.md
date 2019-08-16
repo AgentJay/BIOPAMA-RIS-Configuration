@@ -1,7 +1,7 @@
 ---
 title: Documentation
-subtitle: a list of books I read
+subtitle: All the steps you need to know
 layout: docs
 icon: fa-book
-order: 3
+order: 2
 ---
