@@ -31,12 +31,12 @@
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
 title: BIOPAMA Docs
-subtitle: For the Regional Reference Information System
+subtitle: For the Reference Information System
 description: >- # this means to ignore newlines until "baseurl:"
   This is the documentation page for the BIOPAMA RIS and the tools that are a part of it.
 author: James Davy
 email: james.e.davy@gmail.com
-avatar: assets/images/avatar.jpg
+avatar: assets/images/Biopama_Logo_sm.png
 
 # You'll want to customize url and baseurl for your own site:
 baseurl: "/BIOPAMA-RIS-Core" # the subpath of your site, e.g. /blog
