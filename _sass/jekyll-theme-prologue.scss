@@ -1085,12 +1085,6 @@
 							padding: 0 1em;
 						}
 					}
-					.color_wave {
-						position: absolute;
-						bottom: 0;
-						right: 0;
-						width: 20vw;
-					}
 				}
 			}
 
@@ -1113,3 +1107,8 @@
 			}
 
 	}
+.color_wave {
+    position: relative;
+    bottom: calc(-6em - 13px);
+    text-align: right;
+}
