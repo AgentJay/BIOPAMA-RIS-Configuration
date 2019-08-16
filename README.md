@@ -1,5 +1,7 @@
 # BIOPAMA-RIS-Core
 
+## [Documentation](https://agentjay.github.io/BIOPAMA-RIS-Core/ "BIOPAMA RIS Documentation")
+
 ## How to setup a copy of the BIOPAMA RIS
 
 ### The file system
