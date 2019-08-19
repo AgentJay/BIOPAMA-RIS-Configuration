@@ -1,10 +1,4 @@
----
- title: 2019 - August
- author: James Davy
- layout: post
- --- 
-
-
+---title: 2019 - Augustauthor: James Davylayout: post---
 - 08-19 - improved sorting by year in indicators
 - 08-19 - fixed bug that prevented indicator charts from appearing sometimes
 - 08-19 - fixed indicator scope descriptions so they can show full HTML
