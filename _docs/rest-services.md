@@ -19,35 +19,23 @@ The BIOPAMA REST services return only json format, and the URL contains a standa
 **The filter corresponds to the filter type defined:
 
 region – Region ID (caribbean, pacific, southern_africa, eastern_africa, western_africa, central_africa)
-
 country – country ISO2 code
-
 pa – WDPA ID
-
 all – returns ALL results at the selected “return scope” with no filter
 
 ### Examples:
 /ac_rest/pa/country/MW
-
 Shows all Protected Area priority actions in Malawi (Country ISO2 = MW)
 
-
 /ac_rest/country/pa/9400
-
 Shows all the Countries priority actions where Nkhotakota Wildlife Reserve (WDPA ID = 9400) is located
 
-
 /ac_rest/region/country/MW
-
 Shows all the regions priority actions for the region where Malawi is located 
 
-
 /ac_rest/region/region/7
-
 Shows the regions priority actions in region 7 (Southern Africa)
 
-
 /ac_rest/region/region/all
-
 Shows all regional priorities
 
