@@ -1,8 +1,8 @@
 ---
- title: 2019 - August
- author: James Davy
- layout: post
- --- 
+title: 2019 - August
+author: James Davy
+layout: post
+--- 
 
 
 - 08-19 - improved sorting by year in indicators
