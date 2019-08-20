@@ -1,6 +1,9 @@
----title: 2019 - Augustauthor: James Davylayout: post---
-<details><summary>BIOPAMA Core</summary><p>
+---title: 2019 - Augustauthor: James Davylayout: post---
+<details><summary>BIOPAMA Core</summary>
+- 08-20 - James Davy - Added auto generation of all logs for the 3 repos
+- 08-20 - James Davy - Added auto generation of all logs for the 3 repos
 - 08-19 - James Davy - updated log file format
+- 08-19 - James Davy - Update 2019-08-19-August-Changes.md
 - 08-19 - James Davy - updated log name for compatability
 - 08-19 - James Davy - updated changelog for automated log generation
 - 08-16 - James Davy - adding more docs
@@ -50,8 +53,8 @@
 - 08-09 - James Davy - Update README.md
 - 08-09 - James Davy - Create DEFAULT_map_settings.js
 - 08-09 - James Davy - Update .gitignore
-- 08-09 - James Davy - Initial commit</p></details>
-<details><summary>Theme</summary><p>
+- 08-09 - James Davy - Initial commit</details>
+<details><summary>Theme</summary>
 - 08-19 - James Davy - improved sorting by year in indicators
 - 08-19 - James Davy - fixed bug that prevented indicator charts from appearing sometimes
 - 08-19 - James Davy - fixed indicator scope descriptions so they can show full HTML
@@ -65,11 +68,11 @@
 - 08-09 - James Davy - updated the custom settings path
 - 08-09 - James Davy - Update README.md
 - 08-09 - James Davy - Changed the JS to REQUIRE a seperate file hosted outside the GIT repo to allow regions to customise their RIS
-- 08-08 - James Davy - Major version update.</p></details>
-<details><summary>Module</summary><p>
+- 08-08 - James Davy - Major version update.</details>
+<details><summary>Module</summary>
 - 08-14 - James Davy - lib fix
 - 08-14 - James Davy - Merge branch 'master' of https://github.com/James Davy/biopama_form_hooks
 - 08-14 - James Davy - added policy form hook
 - 08-14 - James Davy - adding policy form hooks
 - 08-14 - James Davy - adding policy form hooks
-- 08-08 - James Davy - mjor version update!</p></details>
+- 08-08 - James Davy - mjor version update!</details>
