@@ -10,7 +10,7 @@ repotheme="/var/www/vhosts/biopama.org/testalpha.biopama.org/web/themes/custom/b
 repomodule="/var/www/vhosts/biopama.org/testalpha.biopama.org/web/modules/custom/biopama_form_hooks";
 thistitle=$thisyear' - '$thismonthname;
 header='---\ntitle: '$thistitle'\nauthor: James Davy\nlayout: post\n--- \n';
-footer='\n</ul>\n</details>\n';
+footer='</ul></details>\n';
 
 echo -e '<details><summary>BIOPAMA Core</summary>\n\n<ul>' > $repocore/change_logs/core/$thisdate.md;
 git --git-dir=$repocore/.git log \
