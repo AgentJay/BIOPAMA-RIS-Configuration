@@ -3,7 +3,7 @@ title: 2019 - August
 author: James Davy
 layout: post
 --- 
-
+## BIOPAMA Core
 <details><summary>BIOPAMA Core</summary>
 
 <ul>
@@ -68,6 +68,7 @@ layout: post
 <li>08-09 - James Davy - Update .gitignore
 <li>08-09 - James Davy - Initial commit</ul></details>
 
+## Theme
 <details><summary>Theme</summary>
 
 <ul>
@@ -86,6 +87,7 @@ layout: post
 <li>08-09 - James Davy - Changed the JS to REQUIRE a seperate file hosted outside the GIT repo to allow regions to customise their RIS
 <li>08-08 - James Davy - Major version update.</ul></details>
 
+## Module
 <details><summary>Module</summary>
 
 <ul>
