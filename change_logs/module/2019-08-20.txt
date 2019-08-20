@@ -1,6 +1,0 @@
-- 08-14 - AgentJay - lib fix
-- 08-14 - AgentJay - Merge branch 'master' of https://github.com/AgentJay/biopama_form_hooks
-- 08-14 - AgentJay - added policy form hook
-- 08-14 - AgentJay - adding policy form hooks
-- 08-14 - AgentJay - adding policy form hooks
-- 08-08 - AgentJay - mjor version update!

@@ -1,6 +1,7 @@
 # Jekyll Theme
 
 /_site
+/change_logs
 *.gem
 .sass-cache
 Gemfile.lock
