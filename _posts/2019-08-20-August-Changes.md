@@ -3,7 +3,7 @@ title: 2019 - August
 author: James Davy
 layout: post
 --- 
-
+## BIOPAMA Core
 <details><summary>BIOPAMA Core</summary>
 
 <ul>
@@ -66,6 +66,7 @@ layout: post
 </ul>
 </details>
 
+## Theme
 <details><summary>Theme</summary>
 
 <ul>
@@ -86,6 +87,7 @@ layout: post
 </ul>
 </details>
 
+## Module
 <details><summary>Module</summary>
 
 <ul>
