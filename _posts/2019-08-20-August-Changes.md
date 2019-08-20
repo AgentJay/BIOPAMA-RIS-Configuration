@@ -4,9 +4,12 @@ author: James Davy
 layout: post
 --- 
 
-<details><summary>BIOPAMA Core</summary>
+<details>
+<summary>BIOPAMA Core</summary>
 
 <ul>
+<li>08-20 - James Davy - Added auto generation of all logs for the 3 repos</li>
+<li>08-20 - James Davy - Added auto generation of all logs for the 3 repos</li>
 <li>08-20 - James Davy - Merge branch 'master' of https://github.com/James Davy/BIOPAMA-RIS-Core</li>
 <li>08-20 - James Davy - Added auto generation of all logs for the 3 repos</li>
 <li>08-20 - James Davy - Update 2019-08-20-August-Changes.md</li>
@@ -70,10 +73,11 @@ layout: post
 <li>08-09 - James Davy - Create DEFAULT_map_settings.js</li>
 <li>08-09 - James Davy - Update .gitignore</li>
 <li>08-09 - James Davy - Initial commit</li>
+</ul>
+</details>
 
-</ul></details>
-
-<details><summary>Theme</summary>
+<details>
+<summary>Theme</summary>
 
 <ul>
 <li>08-19 - James Davy - improved sorting by year in indicators</li>
@@ -90,10 +94,11 @@ layout: post
 <li>08-09 - James Davy - Update README.md</li>
 <li>08-09 - James Davy - Changed the JS to REQUIRE a seperate file hosted outside the GIT repo to allow regions to customise their RIS</li>
 <li>08-08 - James Davy - Major version update.</li>
+</ul>
+</details>
 
-</ul></details>
-
-<details><summary>Module</summary>
+<details>
+<summary>Module</summary>
 
 <ul>
 <li>08-14 - James Davy - lib fix</li>
@@ -102,6 +107,6 @@ layout: post
 <li>08-14 - James Davy - adding policy form hooks</li>
 <li>08-14 - James Davy - adding policy form hooks</li>
 <li>08-08 - James Davy - mjor version update!</li>
-
-</ul></details>
+</ul>
+</details>
 

@@ -10,23 +10,23 @@ repotheme="/var/www/vhosts/biopama.org/testalpha.biopama.org/web/themes/custom/b
 repomodule="/var/www/vhosts/biopama.org/testalpha.biopama.org/web/modules/custom/biopama_form_hooks";
 thistitle=$thisyear' - '$thismonthname;
 header='---\ntitle: '$thistitle'\nauthor: James Davy\nlayout: post\n--- \n';
-footer='\n\n</ul></details>\n';
+footer='\n</ul>\n</details>\n';
 
-echo -e '<details><summary>BIOPAMA Core</summary>\n\n<ul>' > $repocore/change_logs/core/$thisdate.md;
+echo -e '<details>\n<summary>BIOPAMA Core</summary>\n\n<ul>' > $repocore/change_logs/core/$thisdate.md;
 git --git-dir=$repocore/.git log \
 --since='last month' \
 --date=format:'%m-%d' \
 --pretty=format:'<li>%ad - %an - %s</li>' >> $repocore/change_logs/core/$thisdate.md;
 echo -e $footer >> $repocore/change_logs/core/$thisdate.md;
 
-echo -e '<details><summary>Theme</summary>\n\n<ul>' > $repocore/change_logs/theme/$thisdate.md;
+echo -e '<details>\n<summary>Theme</summary>\n\n<ul>' > $repocore/change_logs/theme/$thisdate.md;
 git --git-dir=$repotheme/.git log \
 --since='last month' \
 --date=format:'%m-%d' \
 --pretty=format:'<li>%ad - %an - %s</li>' >> $repocore/change_logs/theme/$thisdate.md;
 echo -e $footer >> $repocore/change_logs/theme/$thisdate.md;
 
-echo -e '<details><summary>Module</summary>\n\n<ul>' > $repocore/change_logs/module/$thisdate.md;
+echo -e '<details>\n<summary>Module</summary>\n\n<ul>' > $repocore/change_logs/module/$thisdate.md;
 git --git-dir=$repomodule/.git log \
 --since='last month' \
 --date=format:'%m-%d' \
