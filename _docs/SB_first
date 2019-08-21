@@ -1,12 +1,12 @@
 ---
-title: Read the news   
+title: Read the latest news   
 icon: fa-book
 order: 2
 ---
 <div class="row">
 	<div class="6u 12u$(small)">
 		<ul>
-			<li>Click on the newspaper button</li>
+			<li>Click on the newspaper tuggle</li>
 		</ul>		
 		If you do not have an account and do not know how to create one, you can follow the intructions here:
 		<a href="#account" class="button scrolly">How to create an account</a>
@@ -17,8 +17,8 @@ order: 2
 <div class="row">
 	<div class="6u 12u$(small)">
 		<ul>
-			<li>Click Login</li>
-			<li>Click Signup</li>
+			<li>Click on the blue point </li>
+			<li>To read the full news, click again inside the pop-up window </li>
 		</ul>		
 	</div>
 	<div class="6u$ 12u$(small)">
