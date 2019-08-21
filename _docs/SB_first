@@ -1,0 +1,28 @@
+---
+title: Adding one new policy
+icon: fa-book
+order: 2
+---
+<div class="row">
+	<div class="6u 12u$(small)">
+		<ul>
+			<li>Click Login</li>
+		</ul>		
+		If you do not have an account and do not know how to create one, you can follow the intructions here:
+		<a href="#account" class="button scrolly">How to create an account</a>
+	</div>
+	<div class="6u$ 12u$(small)">
+	</div>
+</div>
+<div class="row">
+	<div class="6u 12u$(small)">
+		<ul>
+			<li>Click Login</li>
+			<li>Click Signup</li>
+		</ul>		
+	</div>
+	<div class="6u$ 12u$(small)">
+		<img src="{{ 'assets/images/docs/login.png' | relative_url }}" alt="RIS Login" />
+		<img src="{{ 'assets/images/docs/signup.png' | relative_url }}" alt="RIS Signup" />
+	</div>
+</div>
