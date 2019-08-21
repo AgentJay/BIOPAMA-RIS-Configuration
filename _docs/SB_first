@@ -22,7 +22,7 @@ order: 2
 		</ul>		
 	</div>
 	<div class="6u$ 12u$(small)">
-		<img src="{{ 'assets/images/docs/login.png' | relative_url }}" alt="RIS Login" />
-		<img src="{{ 'assets/images/docs/signup.png' | relative_url }}" alt="RIS Signup" />
+		<img src="{{ 'assets/images/docs/news.png' | relative_url }}" alt="RIS News" />
+		
 	</div>
 </div>
