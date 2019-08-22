@@ -6,20 +6,11 @@ order: 2
 <div class="row">
 	<div class="6u 12u$(small)">
 		<ul>
-			<li>Click on the newspaper tuggle</li>
+			<li>Click on the newspaper icon on the right-hand side bar </li>
+			<li>Click on the blue point on the map and a pop-up window will appear</li>
+			<li>To open the external news page, click again inside the pop-up window </li>
 		</ul>		
-		If you do not have an account and do not know how to create one, you can follow the intructions here:
-		<a href="#account" class="button scrolly">How to create an account</a>
-	</div>
-	<div class="6u$ 12u$(small)">
-	</div>
-</div>
-<div class="row">
-	<div class="6u 12u$(small)">
-		<ul>
-			<li>Click on the blue point </li>
-			<li>To read the full news, click again inside the pop-up window </li>
-		</ul>		
+	
 	</div>
 	<div class="6u$ 12u$(small)">
 		<img src="{{ 'assets/images/docs/news.png' | relative_url }}" alt="RIS News" />
