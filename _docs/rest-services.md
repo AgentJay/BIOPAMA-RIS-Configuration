@@ -1,7 +1,7 @@
 ---
 title: REST Services
 icon: fa-book
-order: 5
+order: 7
 ---
 
 ## RIS Action Component REST Services
