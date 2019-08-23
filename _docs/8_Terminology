@@ -1,5 +1,12 @@
-</ hr>
-<h2>DIFFERENCE BETWEEN TARGET AND INDICATOR:</h2>
+---
+title: Terminology 
+icon: fa-book
+order: 8
+---
+<div id="account" class="row">
+	<div class="6u 12u$(small)">
+		<ul>
+			<h2>DIFFERENCE BETWEEN TARGET AND INDICATOR:</h2>
 <ul>
 	</ul>	An indicator measures progresses over time against a target value. </ul>	
 	</ul>	A target value is stated in policy documents as those uploaded. </ul>	
@@ -12,3 +19,7 @@
 	</ul>	All targets and their related policies should be added to the RIS. </ul>	
 	</ul>	However, only some targets is considered in relation to the Action Component. </ul>	
 	</ul>	The targets related to the Action Component are considered Priority actions.</ul>	
+
+		</ul>	</ hr>
+		
+<div> 
