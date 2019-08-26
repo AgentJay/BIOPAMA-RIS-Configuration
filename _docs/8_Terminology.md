@@ -3,23 +3,17 @@ title: Terminology
 icon: fa-book
 order: 8
 ---
-<div id="account" class="row">
-	<div class="6u 12u$(small)">
-		<ul>
-			<h2>DIFFERENCE BETWEEN TARGET AND INDICATOR:</h2>
-<ul>
-	</ul>	An indicator measures progresses over time against a target value. </ul>	
-	</ul>	A target value is stated in policy documents as those uploaded. </ul>	
-	</ul>	An indicator is usually associated to a REST service (see below)</ul>	
 
-</ul>	
-</ hr>
-<h2>DIFFERENCE BETWEEN TARGET AND PRIORITY ACTION:</h2>
-<ul>
-	</ul>	All targets and their related policies should be added to the RIS. </ul>	
-	</ul>	However, only some targets is considered in relation to the Action Component. </ul>	
-	</ul>	The targets related to the Action Component are considered Priority actions.</ul>	
+## DIFFERENCE BETWEEN TARGET AND INDICATOR:
+- An indicator measures progresses over time against a target value.
+- A target value is stated in policy documents as those uploaded.
+- An indicator is usually associated to a REST service (see below)
 
-		</ul>	</ hr>
-		
-<div> 
+----
+
+##DIFFERENCE BETWEEN TARGET AND PRIORITY ACTION:
+- All targets and their related policies should be added to the RIS.	
+- However, only some targets is considered in relation to the Action Component.
+- The targets related to the Action Component are considered Priority actions.
+
+----
