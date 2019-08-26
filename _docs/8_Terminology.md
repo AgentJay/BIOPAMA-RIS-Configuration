@@ -11,7 +11,7 @@ order: 8
 
 ----
 
-##DIFFERENCE BETWEEN TARGET AND PRIORITY ACTION:
+## DIFFERENCE BETWEEN TARGET AND PRIORITY ACTION:
 - All targets and their related policies should be added to the RIS.	
 - However, only some targets is considered in relation to the Action Component.
 - The targets related to the Action Component are considered Priority actions.
