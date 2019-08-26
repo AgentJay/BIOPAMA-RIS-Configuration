@@ -7,6 +7,7 @@
 Gemfile.lock
 
 # The customised settings
+config/
 biopama-config/map_settings.js
 core/
 id_demo/

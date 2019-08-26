@@ -34,7 +34,7 @@
         "drupal/bootstrap_library": "^1.11",
         "drupal/cas": "^1.4",
         "drupal/chosen": "^2.6",
-        "drupal/console": "^1.0.2",
+        "drupal/console": "~1.0",
         "drupal/core": "^8.6",
         "drupal/ctools": "^3.0",
         "drupal/devel": "^2.0",
