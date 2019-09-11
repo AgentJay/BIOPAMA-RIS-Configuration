@@ -1,20 +1,211 @@
 ---
-title: Create an account
-icon: fa-book
-order: 1
+title: Create a Story Map 
+layout: post
+icon: fa-lightbulb
+icon-style: regular
 ---
-<div id="account" class="row">
-	<div class="6u 12u$(small)">
-		<ul>
-			<li>Click Login</li>
-			<li>Click Signup</li>
-			<li>Fill in the form that appears</li>
-		</ul>	
-		</hr>
-		<b>NB: All contents uploaded after your log in will remain in "Draft" mode (hidden to the public) till the BIOPAMA staff approve your account.</b>	
+
+<h2>How to develop your story </h2>
+<p>Use the guidelines below to develop your story based on the data and information collected.</p>
+<p>Reflect on the following points before developing your story: </p>
+
+			
+			<h3>Tips</h3>
+			<ul>
+				<li>Target audience: is it scientific, political, or technical ? </li>
+				<li>Terminology: is your target audience familiar with the terms you are using? </li>
+				<li>Purpose: what is the ultimate message behind this story? </li>
+				<li>The 'So what?': how your data and information can lead (or have led) to better decisions?</li>
+			</ul>
+
+			<h3>'The 4 Cs'</h3>
+			<ul>
+				<li>Contents: do you have the right to use all maps, legends, data, photos, information, etc.? </li>
+				<li>Credits: be sure that copyright for the above elements are addressed appropriately.</li>
+				<li>Consistency: use the same format all along the story (e.g. always include map legends in the same space). </li>
+				<li>Congruence: use paragraphs and sub-paragraphs to talk about topics that are connected. (e.g. SPECIES - Elephants, Rhinos, etc.). </li>
+			</ul>
+
+	<hr />
+	
+	<!-- Table -->
+	<h2>Example</h2>
+	<div class="table-wrapper">
+		<table>
+			<thead>
+				<tr>
+					<th>Section</th>
+					<th>Content</th>
+					<th>Example</th>
+					<th>Map</th>
+				</tr>
+			</thead>
+			<tbody>
+				<tr>
+					<td>Cover</td>
+					<td>Title and BIOPAMA logo</td>
+					<td>What future for People in Tanzania?</td>
+				</tr>
+				<tr>
+					<td>Title and description of major issue covered</td>
+					<td>Introduce the issue. Describe why important. Describe the map. </td>
+					<td>A human-dominated Planet. Human pressure can be observed on the map.</td>
+				</tr>
+				<tr>
+					<td>Section break</td>
+					<td> A sentence can introduce the story. </td>
+					<td>This story is about human pressure on land in Tanzania.</td>
+				</tr>
+				<tr>
+					<td>Title and description of the specific issue covered</td>
+					<td>Narrow down the attention on your content. Introduce the country/protected area(s). Provide general information.</td>
+					<td>Tanzania one of the largest countries of East Africa. A large share of the population relies on subsistence farming for living.</td>
+				</tr>
+				<tr>
+					<td>Map description</td>
+					<td>Why did you collect this specific data? What are you displaying on the map? What are the implications? .</td>
+					<td>The map shows an index of biodiversity richness (how many species live in the same site) and rarity (how much common are those species).</td>
+				</tr>
+				<tr>
+					<td>Data visualisation in graphs</td>
+					<td>Data shown in graphs (embedded from external sources or created as a jpeg).</td>
+					<td>The graphs (how many species live in the same site) and rarity (how much common are those species).</td>
+				</tr>
+			</tbody>
+			<tfoot>
+				<tr>
+					<td colspan="2"></td>
+					<td>100.00</td>
+				</tr>
+			</tfoot>
+		</table>
 	</div>
-	<div class="6u$ 12u$(small)">
-		<img src="{{ 'assets/images/docs/login.png' | relative_url }}" alt="RIS Login" />
-		<img src="{{ 'assets/images/docs/signup.png' | relative_url }}" alt="RIS Signup" />
-	</div>
-</div>
+	
+	<hr />
+	
+	<!-- Form -->
+	<h2>Form</h2>
+	
+	<form method="post" action="#">
+		<div class="row uniform">
+			<div class="6u 12u$(xsmall)">
+				<input type="text" name="demo-name" id="demo-name" value="" placeholder="Name" />
+			</div>
+			<div class="6u$ 12u$(xsmall)">
+				<input type="email" name="demo-email" id="demo-email" value="" placeholder="Email" />
+			</div>
+			<!-- Break -->
+			<div class="12u$">
+				<div class="select-wrapper">
+					<select name="demo-category" id="demo-category">
+						<option value="">- Category -</option>
+						<option value="1">Manufacturing</option>
+						<option value="1">Shipping</option>
+						<option value="1">Administration</option>
+						<option value="1">Human Resources</option>
+					</select>
+				</div>
+			</div>
+			<!-- Break -->
+			<div class="4u 12u$(small)">
+				<input type="radio" id="demo-priority-low" name="demo-priority" checked>
+				<label for="demo-priority-low">Low</label>
+			</div>
+			<div class="4u 12u$(small)">
+				<input type="radio" id="demo-priority-normal" name="demo-priority">
+				<label for="demo-priority-normal">Normal</label>
+			</div>
+			<div class="4u$ 12u$(small)">
+				<input type="radio" id="demo-priority-high" name="demo-priority">
+				<label for="demo-priority-high">High</label>
+			</div>
+			<!-- Break -->
+			<div class="6u 12u$(small)">
+				<input type="checkbox" id="demo-copy" name="demo-copy">
+				<label for="demo-copy">Email me a copy</label>
+			</div>
+			<div class="6u$ 12u$(small)">
+				<input type="checkbox" id="demo-human" name="demo-human" checked>
+				<label for="demo-human">I am a human</label>
+			</div>
+			<!-- Break -->
+			<div class="12u$">
+				<textarea name="demo-message" id="demo-message" placeholder="Enter your message" rows="6"></textarea>
+			</div>
+			<!-- Break -->
+			<div class="12u$">
+				<div class="actions">
+					<input type="submit" value="Send Message" class="special" />
+					<input type="reset" value="Reset" />
+				</div>
+			</div>
+		</div>
+	</form>
+	
+	<hr />
+	
+	<!-- Image -->
+	<h2>Image</h2>
+
+	<div class="row">
+    <div class="4u 12u$(mobile)">
+      <div class="item">
+        <a href="#" class="image fit"><img src="{{ 'assets/images/pic02.jpg' | relative_url }}" alt="Ipsum Feugiat" /></a>
+        <header>
+          <h3>Ipsum Feugiat</h3>
+        </header>
+      </div>
+      <div class="item">
+        <a href="#" class="image fit"><img src="{{ 'assets/images/pic03.jpg' | relative_url }}" alt="Rhoncus Semper" /></a>
+        <header>
+          <h3>Rhoncus Semper</h3>
+        </header>
+      </div>
+    </div>
+    <div class="4u 12u$(mobile)">
+      <div class="item">
+        <a href="#" class="image fit"><img src="{{ 'assets/images/pic04.jpg' | relative_url }}" alt="Magna Nullam" /></a>
+        <header>
+          <h3>Magna Nullam</h3>
+        </header>
+      </div>
+      <div class="item">
+        <a href="#" class="image fit"><img src="{{ 'assets/images/pic05.jpg' | relative_url }}" alt="Natoque Vitae" /></a>
+        <header>
+          <h3>Natoque Vitae</h3>
+        </header>
+      </div>
+    </div>
+    <div class="4u$ 12u$(mobile)">
+      <div class="item">
+        <a href="#" class="image fit"><img src="{{ 'assets/images/pic06.jpg' | relative_url }}" alt="Dolor Penatibus" /></a>
+        <header>
+          <h3>Dolor Penatibus</h3>
+        </header>
+      </div>
+      <div class="item">
+        <a href="#" class="image fit"><img src="{{ 'assets/images/pic07.jpg' | relative_url }}" alt="Orci Convallis" /></a>
+        <header>
+          <h3>Orci Convallis</h3>
+        </header>
+      </div>
+    </div>
+  </div>
+	
+	<h3>Left &amp; Right</h3>
+	<p><span class="image left"><img src="{{ 'assets/images/pic03.jpg' | relative_url }}" alt="" /></span>Lorem ipsum dolor sit accumsan interdum nisi, quis tincidunt felis sagittis eget. tempus euismod. Vestibulum ante ipsum primis in faucibus vestibulum. Blandit adipiscing eu felis iaculis volutpat ac adipiscing accumsan eu faucibus. Integer ac pellentesque praesent tincidunt felis sagittis eget. tempus euismod. Vestibulum ante ipsum primis sagittis eget. tempus euismod. Vestibulum ante ipsum primis in faucibus vestibulum. Blandit adipiscing eu felis iaculis volutpat ac adipiscing accumsan eu faucibus. Integer ac pellentesque praesent tincidunt felis sagittis eget. tempus euismod. Vestibulum ante ipsum primis in faucibus vestibulum. Blandit adipiscing eu felis iaculis volutpat ac adipiscing accumsan eu faucibus. Integer ac pellentesque praesent. Vestibulum ante ipsum primis in faucibus magna blandit adipiscing eu felis iaculis.</p>
+	<p><span class="image right"><img src="{{ 'assets/images/pic02.jpg' | relative_url }}" alt="" /></span>Lorem ipsum dolor sit accumsan interdum nisi, quis tincidunt felis sagittis eget. tempus euismod. Vestibulum ante ipsum primis in faucibus vestibulum. Blandit adipiscing eu felis iaculis volutpat ac adipiscing accumsan eu faucibus. Integer ac pellentesque praesent tincidunt felis sagittis eget. tempus euismod. Vestibulum ante ipsum primis sagittis eget. tempus euismod. Vestibulum ante ipsum primis in faucibus vestibulum. Blandit adipiscing eu felis iaculis volutpat ac adipiscing accumsan eu faucibus. Integer ac pellentesque praesent tincidunt felis sagittis eget. tempus euismod. Vestibulum ante ipsum primis in faucibus vestibulum. Blandit adipiscing eu felis iaculis volutpat ac adipiscing accumsan eu faucibus. Integer ac pellentesque praesent. Vestibulum ante ipsum primis in faucibus magna blandit adipiscing eu felis iaculis.</p>
+	
+	<hr />
+	
+	<!-- Preformatted Code -->
+	<h2>Preformatted</h2>
+	<pre><code>i = 0;
+
+while (!deck.isInOrder()) {
+	print 'Iteration ' + i;
+	deck.shuffle();
+	i++;
+}
+
+print 'It took ' + i + ' iterations to sort the deck.';</code></pre>
