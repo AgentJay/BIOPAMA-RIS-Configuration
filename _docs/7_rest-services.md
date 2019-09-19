@@ -6,10 +6,10 @@ order: 7
 ## What REST Services are? 
 
 ## RIS Action Component REST Services
-REST services are a simple - but advanced - method to 'recall' and present data stored somewhere else. One of the advantages of recalling data through REST services is that the information is dinamically updated to its latest version.  
-
+REST services are a simple - but advanced - method to 'recall' and present data stored somewhere else. One of the advantages of recalling data through REST services is that the information is dinamically updated to its latest version. 
 
 ### URL Structure
+They look like a standard URL. 
 The BIOPAMA REST services return only json format, and the URL contains a standard format as follows:
 /ac_rest/pa/country/%
 
