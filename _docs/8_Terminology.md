@@ -7,8 +7,8 @@ order: 8
 ## DIFFERENCE BETWEEN TARGET AND INDICATOR:
 
 - An indicator measures progresses over time against a target value, to be reached within a given timeframe.
-- Any objective to achieve within a given timeframe - as stated in the documents such as NBSAPs - also has an associated target. 
-- An indicator is usually associated to a REST service (see above for REST services)
+- Any goal to achieve within a given timeframe - as stated in the documents such as NBSAPs - also has an associated target. 
+- Every indicator showing progresses against targets is recalled in the system through REST services (see above for REST services).
 
 ----
 
