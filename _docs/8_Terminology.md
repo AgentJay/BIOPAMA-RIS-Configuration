@@ -5,9 +5,10 @@ order: 8
 ---
 
 ## DIFFERENCE BETWEEN TARGET AND INDICATOR:
-- An indicator measures progresses over time against a target value.
-- A target value is stated in policy documents as those uploaded.
-- An indicator is usually associated to a REST service (see below)
+
+- An indicator measures progresses over time against a target value, to be reached within a given timeframe.
+- Any objective to achieve within a given timeframe - as stated in the documents such as NBSAPs - also has an associated target. 
+- An indicator is usually associated to a REST service (see above for REST services)
 
 ----
 
