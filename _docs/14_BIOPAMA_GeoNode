@@ -4,7 +4,7 @@ icon: fa-desktop
 order: 14
 ---
 
-<h1>BIOPAMA GeoNode Documentation</h1>
+<h1><img src="{{ 'assets/images/docs/iconmonstr-biopama-geonode.png' | relative_url }}" alt="BIOPAMA GeoNode" />BIOPAMA GeoNode Documentation</h1>
 <hr></hr>
 <h4>Installation</h4>
 
