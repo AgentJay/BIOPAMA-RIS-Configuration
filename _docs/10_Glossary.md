@@ -1,9 +1,9 @@
 ---
-title: 
+title: GLOSSARY
 icon: fa-book
 order: 8
 ---
-## GLOSSARY OF TERMS: 
+
 AC – The BIOPAMA Action Component provides funding opportunities to address protected and conserved areas, sustainable use of biodiversity, natural resources priorities for actions on the ground in Africa, the Caribbean and the Pacific (ACP) countries.
 
 Diagnostic tools encompass quantified management and governance assessment tools (including IMET, PAME tools – e.g. METT, RAPPAM, the IUCN Green List of Protected and Conserved Areas, EoH, or equivalent) or, if not available, strategic documents at the protected area, national and regional levels and studies validated by PA management authorities. 
