@@ -4,7 +4,7 @@ title: Add an indicator
 icon: fa-book
 order: 9
 ---
-
+<img src="{{ 'assets/images/docs/indicator.png' | relative_url }}" alt="BIOPAMA Indicators" style="width:150px!important;"/>
 ## Page under development. 
 
 - Add the Geographic Scope. In the case of Antigua&Barbuda, it is 'National' 
