@@ -1,5 +1,5 @@
 ---
-title: Terminology 
+title: Glossary of terms
 icon: fa-book
 order: 8
 ---
