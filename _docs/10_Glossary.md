@@ -1,8 +1,4 @@
----
-title: GLOSSARY
-icon: fa-book
-order: 8
----
+
 ## TERMINOLOGY
 
 AC – The BIOPAMA Action Component provides funding opportunities to address protected and conserved areas, sustainable use of biodiversity, natural resources priorities for actions on the ground in Africa, the Caribbean and the Pacific (ACP) countries.
