@@ -1,5 +1,5 @@
 ---
-title: BIOPAMA GeoNode   
+title: BIOPAMA Maps  
 icon: fa-desktop
 order: 14
 ---
