@@ -1,10 +1,10 @@
 ---
-title: BIOPAMA Maps  
+title: BIOPAMA Map repository  
 icon: fa-desktop
 order: 14
 ---
 <img src="{{ 'assets/images/docs/b_gnode.png' | relative_url }}" alt="BIOPAMA GeoNode" style="width:150px!important;"/>
-<h1>BIOPAMA GeoNode Documentation</h1>
+<h1>How to use Geonode to store, access and share your maps</h1>
 <hr></hr>
 <h4>Installation</h4>
 
