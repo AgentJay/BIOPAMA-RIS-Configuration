@@ -1,0 +1,34 @@
+---
+title: BIOPAMA Conservation Targest
+icon: fa-book
+order: 2
+---
+<div class="row">
+	<div class="6u 12u$(small)">
+		<ul>
+			<li>Go on the Action Component website to download the excel file for your region (image n.1).</li>
+			<li>Open the file and copy the text of one of the Priorities ('Policies' in the RIS).</li> 
+		</ul>
+		<p>NB: Each Priority in the document is associated to a Category, a Reference Document and a Geographic Scope(image n.1). </p>
+		<ul>
+			<li>In the RIS, click the 'Response' button as shown in image n.3.</li>
+			<li>Choose the Scope (image n.2): is this Policy a global, regional, national or local ? </li>
+		</ul>
+		<p>In this example, we selected our Policy from a national plan, so the Scope is national(image n.3).</p>
+		<ul>
+			<li>Click the 'Add a Policy' button (image n.3) and the Policy form will open in a pop-up window on the right.</li>
+			<li>Follow the instructions in the form to add the Policy in the RIS.</li>
+		</ul>
+		<p>If you need help, use the next documentation page.</p>		
+	</div>
+	<div class="6u$ 12u$(small)">
+		<img src="{{ 'assets/images/docs/Excel.jpg' | relative_url }}" alt="AC" />
+		<img src="{{ 'assets/images/docs/map_menu.png' | relative_url }}" alt="Response" />
+		<img src="{{ 'assets/images/docs/add_policy_crop_res.jpg' | relative_url }}" alt="Pol" />
+	</div>
+</div>
+
+
+
+
+How to measure Conservation Targets
