@@ -1,16 +1,22 @@
+---
+
+title: Add an indicator
+icon: fa-book
+order: 10
+---
 
 ## TERMINOLOGY
 
-AC – The BIOPAMA Action Component provides funding opportunities to address protected and conserved areas, sustainable use of biodiversity, natural resources priorities for actions on the ground in Africa, the Caribbean and the Pacific (ACP) countries.
+**AC** – The BIOPAMA Action Component provides funding opportunities to address protected and conserved areas, sustainable use of biodiversity, natural resources priorities for actions on the ground in Africa, the Caribbean and the Pacific (ACP) countries.
 
 Diagnostic tools encompass quantified management and governance assessment tools (including IMET, PAME tools – e.g. METT, RAPPAM, the IUCN Green List of Protected and Conserved Areas, EoH, or equivalent) or, if not available, strategic documents at the protected area, national and regional levels and studies validated by PA management authorities. 
 
-IMET – Integrated Management Effectiveness Assessment Tool 
+**IMET** – Integrated Management Effectiveness Assessment Tool 
 
 Key stakeholders for the BIOPAMA programme include: Protected area authorities; site managers; CBD focal points for the Convention on Biological Diversity (CBD), on protected areas specifically; government agencies that relate to land and national water management, or climate change adaptation and mitigation; and; academic institutions and conservation organisations
 
 
-PAME – Protected Area Management Effectiveness
+**PAME** – Protected Area Management Effectiveness
 
 Priority areas in wider conservation landscapes include inter alia , for the purpose of the Action, key landscapes for conservation (where identified in ACP Countries), Key Biodiversity Areas (KBAs), Marine Managed Areas, Ecologically or Biologically Significant Marine Areas (EBSAs),  or other protected and conserved areas, where their importance is justified by diagnostic tools  or strategic documents in ACP Countries, including SIDS.
 
