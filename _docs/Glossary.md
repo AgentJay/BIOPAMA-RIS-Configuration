@@ -2,35 +2,11 @@
 
 title: Glossary
 icon: fa-book
-order: 1
+order: 14
 ---
 
-## TERMINOLOGY
-
-**AC Action Component** provides funding opportunities to address protected and conserved areas, sustainable use of biodiversity, natural resources priorities for actions on the ground in Africa, the Caribbean and the Pacific (ACP) countries.
-
-Diagnostic tools encompass quantified management and governance assessment tools (including IMET, PAME tools – e.g. METT, RAPPAM, the IUCN Green List of Protected and Conserved Areas, EoH, or equivalent) or, if not available, strategic documents at the protected area, national and regional levels and studies validated by PA management authorities. 
-
-**IMET Integrated Management Effectiveness Assessment Tool**
-
-Key stakeholders for the BIOPAMA programme include: Protected area authorities; site managers; CBD focal points for the Convention on Biological Diversity (CBD), on protected areas specifically; government agencies that relate to land and national water management, or climate change adaptation and mitigation; and; academic institutions and conservation organisations
-
-
-**PAME Protected Area Management Effectiveness** 
-
-Priority areas in wider conservation landscapes include inter alia , for the purpose of the Action, key landscapes for conservation (where identified in ACP Countries), Key Biodiversity Areas (KBAs), Marine Managed Areas, Ecologically or Biologically Significant Marine Areas (EBSAs),  or other protected and conserved areas, where their importance is justified by diagnostic tools  or strategic documents in ACP Countries, including SIDS.
-
-Priority decision-support tools may include, as a minimum, tools that provide accessible, up to date information on the following:
-•	The location of important sites for biodiversity (for ecosystem services, KBAs, EBSAs) – 
-•	Protected area coverage of the most important sites for biodiversity 
-•	OECM coverage of the most important sites for biodiversity
-•	Management effectiveness assessments including IMET
-•	Equitable governance arrangements at sites
-•	Connectivity
-•	Compatibility with the production sectors in landscapes and seascapes 
-
-
-Protected Areas means both protected areas, and conserved areas. Conserved areas include sites that meet the definition for Other Effective Area-Based Conservation Measures (OECMs), as agreed by Parties to the Convention on Biological Diversity (CBD): CBD/COP/Dec/14/8
+**AC Action Component** provides funding opportunities to address protected and conserved areas, sustainable use of biodiversity, natural resources priorities for actions on the ground in Africa, the Caribbean and the Pacific (ACP) countries. 
+Diagnostic tools encompass quantified management and governance assessment tools (including IMET, PAME tools – e.g. METT, RAPPAM, the IUCN Green List of Protected and Conserved Areas, EoH, or equivalent) or, if not available, strategic documents at the protected area, national and regional levels and studies validated by PA management authorities.
 
 **RIS – Reference Information System** provides data on the global status and trends of protected areas and other spatial and non-spatial information relevant to protected areas
 
@@ -42,7 +18,7 @@ Protected Areas means both protected areas, and conserved areas. Conserved areas
 
 Up to date in relation to the records in the RRIS, RIS and WDPA, are records that have been updated within the last five (5) years. 
 
-**WDPA – the World Database on Protected Areas** the most comprehensive global database of protected areas, updated on a monthly basis, and used widely to inform planning, policy decisions and management. The WDPA is a joint project coordinated by UN Environment and IUCN. The compilation and management of the WDPA is carried out by UN Environment World Conservation Monitoring Centre (UNEP-WCMC), in collaboration with governments, non-governmental organisations, academia and industry.  
+##**WDPA – the World Database on Protected Areas** the most comprehensive global database of protected areas, updated on a monthly basis, and used widely to inform planning, policy decisions and management. The WDPA is a joint project coordinated by UN Environment and IUCN. The compilation and management of the WDPA is carried out by UN Environment World Conservation Monitoring Centre (UNEP-WCMC), in collaboration with governments, non-governmental organisations, academia and industry.  
 
 ----
 
