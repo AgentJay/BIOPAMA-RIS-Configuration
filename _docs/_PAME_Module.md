@@ -1,5 +1,5 @@
 ---
-title: BIOPAMA PAME
+title: BIOPAMA Protected Areas Management Effectiveness 
 icon: fa-desktop
 order: 14
 ---
