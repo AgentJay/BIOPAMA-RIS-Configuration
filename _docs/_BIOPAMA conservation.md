@@ -1,7 +1,8 @@
 ---
+
 title: BIOPAMA Conservation Targets
 icon: fa-book
-order: 2
+order: 14
 ---
   
 <img src="{{ 'assets/images/docs/biopama-stories.png' | relative_url }}" alt="Story Maps" style="width:150px!important;"/>
