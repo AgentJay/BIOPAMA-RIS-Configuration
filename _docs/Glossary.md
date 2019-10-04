@@ -1,6 +1,6 @@
 ---
 
-title: Add an indicator
+title: Glossary
 icon: fa-book
 order: 10
 ---
