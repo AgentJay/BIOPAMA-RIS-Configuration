@@ -7,12 +7,14 @@ order: 20
 
 ## RIS Action Component REST Services
 REST services are a simple - but advanced - method to 'recall' and present data stored somewhere else. One of the advantages of recalling data through REST services is that the information is dinamically updated to its latest version. 
+
 ----
 
 ### URL Structure
 They look like a standard URL. 
 The BIOPAMA REST services return only json format, and the URL contains a standard format as follows:
 /ac_rest/pa/country/%
+
 ----
 
 ### The URL is composed of 4 parts known as “arguments”:
@@ -27,6 +29,7 @@ region – Region ID (caribbean, pacific, southern_africa, eastern_africa, weste
 country – country ISO2 code
 pa – WDPA ID
 all – returns ALL results at the selected “return scope” with no filter
+
 ----
 
 ### Examples:
