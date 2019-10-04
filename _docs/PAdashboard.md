@@ -1,5 +1,5 @@
 
-title: BIOPAMA Summary statistics
+title: Summary pages
 icon: fa-desktop
 order: 14
 ---
