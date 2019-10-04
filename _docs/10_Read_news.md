@@ -7,7 +7,7 @@ order: 14
 <h1>How to read the latest news on biodiversity conservation in ACP countries </h1>
 
 
-Read the official <a href="https://docs.google.com/presentation/d/1NAOKie3p_cWCj1eRcFhlgF1EVeQlH6YJ7yFRmK3E614/edit?usp=sharing" target="_blank">How to build a story map</a> documentation</a>.
+Read the official <a href="https://docs.google.com/presentation/d/1NAOKie3p_cWCj1eRcFhlgF1EVeQlH6YJ7yFRmK3E614/edit?usp=sharing" target="_blank">How to build a story map</a> documentation.
 
 
 <h4>F.A.Q.</h4>
