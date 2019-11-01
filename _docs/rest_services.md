@@ -1,14 +1,21 @@
 ---
-title: REST Services
+
+title: REST services
 icon: fa-book
-order: 7
+order: 20
 ---
 
 ## RIS Action Component REST Services
+REST services are a simple - but advanced - method to 'recall' and present data stored somewhere else. One of the advantages of recalling data through REST services is that the information is dinamically updated to its latest version. 
+
+----
 
 ### URL Structure
+They look like a standard URL. 
 The BIOPAMA REST services return only json format, and the URL contains a standard format as follows:
 /ac_rest/pa/country/%
+
+----
 
 ### The URL is composed of 4 parts known as “arguments”:
 1.	/ac_rest – this is the endpoint for all the “Action Component” REST services and must always be present when making a request
@@ -22,6 +29,8 @@ region – Region ID (caribbean, pacific, southern_africa, eastern_africa, weste
 country – country ISO2 code
 pa – WDPA ID
 all – returns ALL results at the selected “return scope” with no filter
+
+----
 
 ### Examples:
 /ac_rest/pa/country/MW
@@ -38,4 +47,3 @@ Shows the regions priority actions in region 7 (Southern Africa)
 
 /ac_rest/region/region/all
 Shows all regional priorities
-
