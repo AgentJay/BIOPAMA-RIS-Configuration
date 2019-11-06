@@ -20,6 +20,14 @@
 1. Clear the cache.
 #### Done!
 
+### New Landingpage Module
+Here's a link to the new module which can be used to replace the main page in the site:
+https://github.com/Martenz/biopama_dashboards
+There's a few changes that need to be done if this module that come pagkaged in the updated 'bootstrap_barrio_biopama' theme.
+The theme must be updated to the latest version.
+And in the settings "/admin/config/system/site-information"
+change the "Default Frontpage" to "/landingpage"
+
 ## Keeping the BIOPAMA RIS up to date
 In the future if there are any changes to any of the 3 main repos:
 - biopama_form_hooks
