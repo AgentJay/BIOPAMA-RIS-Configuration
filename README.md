@@ -13,12 +13,20 @@
 1. Follow the instructions to generate your own regional MAPs in the BIOPAMA Map Tiles repo (https://github.com/AgentJay/BIOPAMA-map-tiles)
 
 ### Next steps 
-1. Setup a database in mySQL that will be used for Drupal
+1. Setup a database in mySQL or Postgres that will be used for Drupal (MySQL is recommended for compatibility with Automatic backup scripts)
 1. Follow the Drupal installation instructions in a web browser by navigating to where you set it all up. 
 1. Check the Drupal Status page and ensure that everything is OK with permissions and the file system. (Fix any issues it reports) 
 1. Right now there's no module to manage the content types and views. So in order to get all the content types generated you must clone the current RIS database. Contact me if you need a copy. You can 'restore' database over the one from the first steps.
 1. Clear the cache.
 #### Done!
+
+### New Landingpage Module
+Here's a link to the new module which can be used to replace the main page in the site:
+https://github.com/Martenz/biopama_dashboards
+There's a few changes that need to be done if this module that come pagkaged in the updated 'bootstrap_barrio_biopama' theme.
+The theme must be updated to the latest version.
+And in the settings "/admin/config/system/site-information"
+change the "Default Frontpage" to "/landingpage"
 
 ## Keeping the BIOPAMA RIS up to date
 In the future if there are any changes to any of the 3 main repos:
