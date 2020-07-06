@@ -1,7 +1,21 @@
 {
-    "name": "root/testecho.biopama.org",
+    "name": "drupal/recommended-project",
+    "description": "RRIS project template based on Drupal 8 projects with a relocated document root",
     "type": "project",
+    "license": "GPL-2.0-or-later",
+    "homepage": "https://www.drupal.org/project/drupal",
+    "support": {
+        "docs": "https://www.drupal.org/docs/user_guide/en/index.html",
+        "chat": "https://www.drupal.org/node/314178"
+    },
+    "repositories": [
+        {
+            "type": "composer",
+            "url": "https://packages.drupal.org/8"
+        }
+    ],
     "require": {
+        "composer/installers": "^1.8",
         "cweagans/composer-patches": "^1.6.0",
         "drupal/address": "^1.7",
         "drupal/admin_toolbar": "^1.27",
@@ -11,11 +25,12 @@
         "drupal/avatars": "^1.0",
         "drupal/backup_migrate": "^4.0",
         "drupal/better_exposed_filters": "^3.0@alpha",
-        "drupal/bootstrap_barrio": "^4.17",
+        "drupal/bootstrap_barrio": "^4.30",
         "drupal/bootstrap_library": "^1.11",
         "drupal/chosen": "^2.6",
-        "drupal/console": "^1.0.2",
-        "drupal/core": "^8.7.5",
+        "drupal/core-composer-scaffold": "^8",
+        "drupal/core-project-message": "^8",
+        "drupal/core-recommended": "^8",
         "drupal/ctools": "^3.0",
         "drupal/devel": "^2.0",
         "drupal/devel_entity_updates": "^1.0",
@@ -89,38 +104,66 @@
         "phpunit/phpunit": ">=4.8.28 <5",
         "symfony/css-selector": "~2.8"
     },
-    "repositories": [
-        {
-            "type": "composer",
-            "url": "https://packages.drupal.org/8"
-        }
-    ],
+    "conflict": {
+        "drupal/drupal": "*"
+    },
     "minimum-stability": "dev",
+    "prefer-stable": true,
+    "config": {
+        "sort-packages": true
+    },
     "extra": {
-		"enable-patching": true,
-		"patches": {
-			"drupal/core": {
-				"ViewsEntitySchemaSubscriber should not make an entity update fail if a view cannot be resaved": "https://www.drupal.org/files/issues/2019-05-06/3052492-13.patch"
-			}
-		},
-        "patchLevel": {
-            "drupal/core": "-p2"
-        },
-        "drupal-composer-helper": {
-            "web-prefix": "web"
+        "drupal-scaffold": {
+            "locations": {
+                "web-root": "web/"
+            }
         },
         "installer-paths": {
             "web/core": [
                 "type:drupal-core"
+            ],
+            "web/libraries/{$name}": [
+                "type:drupal-library"
+            ],
+            "web/modules/contrib/{$name}": [
+                "type:drupal-module"
+            ],
+            "web/profiles/contrib/{$name}": [
+                "type:drupal-profile"
+            ],
+            "web/themes/contrib/{$name}": [
+                "type:drupal-theme"
+            ],
+            "drush/Commands/contrib/{$name}": [
+                "type:drupal-drush"
+            ],
+            "web/modules/custom/{$name}": [
+                "type:drupal-custom-module"
+            ],
+            "web/themes/custom/{$name}": [
+                "type:drupal-custom-theme"
+            ]
+        },
+        "drupal-core-project-message": {
+            "include-keys": [
+                "homepage",
+                "support"
+            ],
+            "post-create-project-cmd-message": [
+                "<bg=blue;fg=white>                                                         </>",
+                "<bg=blue;fg=white>  Congratulations, you’ve installed the Drupal codebase and the base RRIS  </>",
+                "<bg=blue;fg=white>  from the drupal/recommended-project template!          </>",
+                "<bg=blue;fg=white>                                                         </>",
+                "",
+                "<bg=yellow;fg=black>Next steps</>:",
+                "  * Install the site: https://www.drupal.org/docs/8/install",
+                "  * Read the user guide: https://www.drupal.org/docs/user_guide/en/index.html",
+                "  * Get support: https://www.drupal.org/support",
+                "  * Get involved with the Drupal community:",
+                "      https://www.drupal.org/getting-involved",
+                "  * Remove the plugin that prints this message:",
+                "      composer remove drupal/core-project-message"
             ]
         }
-    },
-    "prefer-stable": true,
-    "conflict": {
-        "drupal/drupal": "*"
-    },
-    "config": {
-        "sort-packages": true,
-        "optimize-autoloader": true
     }
 }
